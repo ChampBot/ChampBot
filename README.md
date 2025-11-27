@@ -23,18 +23,18 @@
 
 <div id="badges" align = "center">
  
-  <a href="[https://www.linkedin.com/in/karthik-rangu-7b3478363/]">
+  <a href="https://www.linkedin.com/in/karthik-rangu-7b3478363/">
     <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  
-<a href="[mailto:rangukarthik0@gmail.com]">
+<a href="mailto:rangukarthik0@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-<a href="[https://leetcode.com/u/KarthikRangu/]">
+<a href="https://leetcode.com/u/KarthikRangu/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?message=Leetcode&logo=Leetcode&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
  </a>
 
- <a href="[https://www.geeksforgeeks.org/profile/champboy]">
+ <a href="https://www.geeksforgeeks.org/profile/champboy">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/GeeksForGeeks_logo.png?message=GeekForGeeks&logo=GeekForGeekse&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="geekforgeeks logo"  />
  </a>
 
